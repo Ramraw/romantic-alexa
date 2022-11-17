@@ -1,4 +1,4 @@
-# romantic-alexa
+# alexa
 ## Build an Artificial Assistant
 
 ### Full tutorial (video)
